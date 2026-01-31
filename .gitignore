@@ -1,0 +1,12 @@
+node_modules/
+.idea/
+content/brand-outline.md
+npm-cache/
+dist/
+out/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+Archive.zip
